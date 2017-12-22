@@ -30,4 +30,4 @@ public class inputDataArray {
         return number;
     }
 }//class
-}
+
