@@ -18,7 +18,7 @@ public class Student {
     //default construtor
     public Student(){}
     //create by own
-    public ooplab7(String id, String n, String pid, String a){
+    public Student(String id, String n, String pid, String a){
         //assing data to class properties
         this.id = id;
         this.name = n;
